@@ -77,7 +77,7 @@ ___
 ___
 
 -**Midnight rain**
-![alt text](image.jpg)
+![Midnight rain](https://i.ytimg.com/vi/I-xFfSN_HlQ/maxresdefault.jpg)
 [Youtube](https://www.youtube.com/watch?v=Odh9ddPUkEY)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rWDp9tBPQR9z6U5YyRSK4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -85,7 +85,7 @@ ___
 ___
 
 -**Labyrinth**
-![alt text](image.jpg)
+![Labyrinth](https://pbs.twimg.com/media/FHdVcfKXsAIVJtU?format=jpg&name=large)
 [Youtube](https://www.youtube.com/watch?v=xTXsKMXUi7w)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0A1JLUlkZkp2EFrosoNQi0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -93,7 +93,7 @@ ___
 ___
 
 -**Sweet Nothing**
-![alt text](image.jpg)
+![Sweet nothing](https://i.ytimg.com/vi/L7-qj2QiI6g/maxresdefault.jpg)
 [Youtube](https://www.youtube.com/watch?v=rn0brgg2BpI)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wavGRldH0AWyu2zvTz8zb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
